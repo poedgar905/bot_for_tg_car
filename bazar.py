@@ -161,7 +161,8 @@ def render_post(data: Dict[str, Any], tags: List[str] | None = None) -> str:
         f"📞 {contacts}\n\n"
         f"📝 {description}\n\n"
 	f"━━━━━━━━━━━━━━━\n"
-        f"{SOURCE_TAG}"
+		f"Створити оголошення — @car_spot_ua_bot \n\n"
+        f"Канал — {SOURCE_TAG}"
     )
 
     if tags:
