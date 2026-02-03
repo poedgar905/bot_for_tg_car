@@ -18,7 +18,7 @@ from aiogram.client.default import DefaultBotProperties
 from config import BOT_TOKEN, CHANNEL_ID, MOD_GROUP_ID
 
 # ---------- MODERATORS ----------
-MODERATOR_IDS = {535860827, 688059959, 669987059}
+MODERATOR_IDS = {535860827, 688059959, 669987059, 464271249}
 
 # ---------- CONSTANTS ----------
 SOURCE_TAG = "@car_spot_ua"
